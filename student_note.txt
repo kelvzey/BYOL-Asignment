@@ -1,0 +1,6 @@
+# Student submission notes
+
+Submitted by: Kelvin omonigho Erhiaworon
+Student ID: Ug/22/5790
+
+This Week 1 submission keeps the same functionality while using a slightly different coding style.
